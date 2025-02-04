@@ -17,4 +17,4 @@ Took the leap of faith by changing career path to Web Development.
 
 - Web Design: HTML,CSS
 - UI/UX: Figma, Canva
-- Digital Marketing: SEO,SEM,Research,
+- Digital Marketing: SEO,SEM,Research Marketing
