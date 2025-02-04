@@ -10,7 +10,7 @@ Took the leap of faith by changing career path to Web Development.
 ## Web Development and Skills
 
 - Front-End Web Development: HTML,CSS,JavaScript,React
-- Back-End Web Development: C#,ASP.NET
+- Back-End Web Development: C#,ASP.NET,Git,GitHub
 - Database Design and Development: SQL,MySQL,NoSQL,Database Management
 
 ## Web Design and Skills
