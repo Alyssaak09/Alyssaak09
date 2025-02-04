@@ -1,4 +1,4 @@
-# Hey, I'm Alyssa A... The New Girl On The Coding Blocking
+# Hey, I'm Alyssa A... The New Girl On The Coding Block
 
 Took the leap of faith by changing career path to Web Development. 
 
