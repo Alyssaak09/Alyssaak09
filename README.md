@@ -1,4 +1,4 @@
- ! [Banner](Banner.png)
+ ! [Banner](/assets/images/Banner.png)
 
 # Hey, I'm Alyssa..... The New Girl On The Coding Block
 
