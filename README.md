@@ -1,4 +1,4 @@
- ![Banner] (Web Development & Web Design Banner.png)
+ ![Banner] (Alyssaak09/README.md/Web Development & Web Design Banner.png)
 
 # Hey, I'm Alyssa..... The New Girl On The Coding Block
 
