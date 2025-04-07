@@ -1,4 +1,4 @@
- ! [Banner](Alyssaak09/Banner.png)
+ ! [Banner](Banner.png)
 
 # Hey, I'm Alyssa..... The New Girl On The Coding Block
 
